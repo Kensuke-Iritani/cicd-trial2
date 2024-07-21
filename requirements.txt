@@ -1,0 +1,11 @@
+pytest==8.2.2
+pytest-cov==5.0.0
+pytest-watch==4.2.0
+playwright==1.44.0
+bandit
+pytest-asyncio
+streamlit
+pandas
+matplotlib
+numpy
+
